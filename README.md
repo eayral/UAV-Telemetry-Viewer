@@ -55,9 +55,8 @@ python mavlink_listener.py   # 5760 dinler, GUI için 6000 açar
 
 ## Ekran Görüntüleri
 
-!(docs/ss1.png)
-
-!(docs/ss2.png)
+![](docs/ss1.png)
+![](docs/ss2.png)
 
  ## Neler Eklenebilir?
 
@@ -65,6 +64,7 @@ python mavlink_listener.py   # 5760 dinler, GUI için 6000 açar
 
  Harita mini-görünümü (Qt Location)
 
+ Arayüz görsel iyileştirmesi
 
 
 
