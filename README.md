@@ -10,9 +10,6 @@ UAVTelemViewer, Mission Planner / SITL’den gelen **MAVLink** verilerini
 Python köprüsü üzerinden alır (TCP 5760 → 6000) ve Qt 6 arayüzünde
 renkli “Hızlı Veri” paneli şeklinde gösterir.
 
-<p align="center">
-  <img src="docs/screenshot.png" width="600" alt="Telemetri paneli ekran görüntüsü">
-</p>
 
 | Gösterge | MAVLink Mesajı | Alan            |
 |----------|----------------|-----------------|
@@ -44,11 +41,11 @@ UAVTelemViewer/
 
 ## Çalıştırma
 
-# 1) Mission Planner
-#  Simülasyon Menüsü ▸ Araç Seç ▸Bağlan
-#    Ctrl+F ▸ Mavlink ▸ TCP Host 14550 ▸ Start
-#  Uçuş Planı ▸ Hedefleri Seç ▸ Kalkış İniş Planla 
-# Uçuş Verileri ▸ Komut ▸ Otomatik Mod ▸ Etkinleştir
+ 1) Mission Planner
+Simülasyon Menüsü ▸ Araç Seç ▸Bağlan
+Ctrl+F ▸ Mavlink ▸ TCP Host 14550 ▸ Start
+Uçuş Planı ▸ Hedefleri Seç ▸ Kalkış İniş Planla 
+Uçuş Verileri ▸ Komut ▸ Otomatik Mod ▸ Etkinleştir
 
 # 2) Python köprüsü
 python mavlink_listener.py   # 5760 dinler, GUI için 6000 açar
@@ -58,19 +55,16 @@ python mavlink_listener.py   # 5760 dinler, GUI için 6000 açar
 
 ## Ekran Görüntüleri
 
-(docs/ss1.png)
+!(docs/ss1.png)
 
-(docs/ss2.png)
+!(docs/ss2.png)
 
- Neler Eklenebilir?
+ ## Neler Eklenebilir?
 
  UI’den komut gönderme (ARM, TAKEOFF)
 
- VBAT < 11 V için kırmızı alarm
-
  Harita mini-görünümü (Qt Location)
 
- GitHub Actions ile CI (& Windows artefact)
 
 
 
