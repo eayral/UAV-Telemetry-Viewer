@@ -1,0 +1,5 @@
+C:/Users/Ethem Ali/Projects/UAVTelemViewer/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/UAVTelemViewer.dir
+C:/Users/Ethem Ali/Projects/UAVTelemViewer/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Ethem Ali/Projects/UAVTelemViewer/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Ethem Ali/Projects/UAVTelemViewer/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/UAVTelemViewer_autogen_timestamp_deps.dir
+C:/Users/Ethem Ali/Projects/UAVTelemViewer/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/UAVTelemViewer_autogen.dir

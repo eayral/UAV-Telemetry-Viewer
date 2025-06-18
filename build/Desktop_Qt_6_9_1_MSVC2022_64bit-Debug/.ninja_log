@@ -1,0 +1,19 @@
+# ninja log v6
+58	245	7719788110139311	UAVTelemViewer_autogen/timestamp	d1240e748abf3354
+527	3131	7719734851738112	CMakeFiles/UAVTelemViewer.dir/main.cpp.obj	522c6da38b4905bd
+58	245	7719788110139311	UAVTelemViewer_autogen/mocs_compilation.cpp	d1240e748abf3354
+522	3139	7719734851688268	CMakeFiles/UAVTelemViewer.dir/UAVTelemViewer_autogen/mocs_compilation.cpp.obj	4bab269d950c1ee9
+58	245	7719788110139311	C:/Users/Ethem Ali/Projects/UAVTelemViewer/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/UAVTelemViewer_autogen/timestamp	d1240e748abf3354
+58	245	7719788110139311	C:/Users/Ethem Ali/Projects/UAVTelemViewer/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/UAVTelemViewer_autogen/mocs_compilation.cpp	d1240e748abf3354
+246	2761	7719788112020831	CMakeFiles/UAVTelemViewer.dir/mainwindow.cpp.obj	fa03b8b381c5845c
+20	48	7719734815783776	CMakeFiles/clean.additional	baedbe210acaa455
+48	67	7719734816063454	clean	7c4ab7700f810e4a
+2761	2963	7719788137169774	UAVTelemViewer.exe	77ba4c360aaeb086
+89	687	7719790882020384	UAVTelemViewer_autogen/timestamp	d1240e748abf3354
+89	687	7719790882020384	UAVTelemViewer_autogen/mocs_compilation.cpp	d1240e748abf3354
+89	687	7719790882020384	C:/Users/Ethem Ali/Projects/UAVTelemViewer/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/UAVTelemViewer_autogen/timestamp	d1240e748abf3354
+89	687	7719790882020384	C:/Users/Ethem Ali/Projects/UAVTelemViewer/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/UAVTelemViewer_autogen/mocs_compilation.cpp	d1240e748abf3354
+694	3599	7719790883030416	CMakeFiles/UAVTelemViewer.dir/main.cpp.obj	522c6da38b4905bd
+689	3609	7719790882990407	CMakeFiles/UAVTelemViewer.dir/UAVTelemViewer_autogen/mocs_compilation.cpp.obj	4bab269d950c1ee9
+699	3631	7719790883090449	CMakeFiles/UAVTelemViewer.dir/mainwindow.cpp.obj	fa03b8b381c5845c
+3631	4548	7719790912414116	UAVTelemViewer.exe	77ba4c360aaeb086
