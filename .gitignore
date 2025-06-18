@@ -1,0 +1,21 @@
+# === CMake & Qt Creator ==================
+build*/
+out*/
+*.user
+*.pro.user.*
+*.autosave
+
+# === MSVC / Ninja ========================
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.exp
+*.lib
+
+# === Python ==============================
+__pycache__/
+*.pyc
+
+# === VS Code =============================
+.vscode/
