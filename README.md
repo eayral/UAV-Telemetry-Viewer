@@ -1,11 +1,11 @@
 <h1 align="center">UAVTelemViewer</h1>
 <p align="center">
-  <em>Qt 6 + Python ile gerçek-zamanlı ArduPilot telemetri paneli</em>
+  <em>Qt 6 + C++ + Python ile gerçek-zamanlı ArduPilot telemetri paneli</em>
 </p>
 
 ---
 
-## ✈️ Genel Bakış
+## Genel Bakış
 UAVTelemViewer, Mission Planner / SITL’den gelen **MAVLink** verilerini
 Python köprüsü üzerinden alır (TCP 5760 → 6000) ve Qt 6 arayüzünde
 renkli “Hızlı Veri” paneli şeklinde gösterir.
@@ -31,7 +31,7 @@ UAVTelemViewer/
 ├─ .gitignore
 └─ docs/ screenshot.png
 
-## 🧰 Gereksinimler
+##  Gereksinimler
 
 | Yazılım | Sürüm / Not |
 |---------|-------------|
